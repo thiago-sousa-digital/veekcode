@@ -13,13 +13,22 @@
     "prettier": "1.10.2"
   },
   "license": "UNLICENCED",
+  "lint-staged": {
+    "*.js": [
+      "prettier --write --single-quote true --trailing-comma all --print-width 80",
+      "git add"
+    ]
+  },
   "main": "build/index.html",
   "private": true,
   "repository": "git@github.com:rodrigooler/veek.git",
   "scripts": {
     "build": "react-scripts build",
     "eject": "react-scripts eject",
+    "precommit": "lint-staged",
+    "prettier": "./node_modules/.bin/prettier --write --single-quote true --trailing-comma all --print-width 80 --write 'src/**/*.js'",
     "start": "react-scripts start",
-    "test": "react-scripts test --env=jsdom"
+    "test": "react-scripts test --env=jsdom",
+    "upg": "yarn upgrade-interactive"
   }
 }
