@@ -15,7 +15,7 @@
   "license": "UNLICENCED",
   "lint-staged": {
     "*.js": [
-      "prettier --write --single-quote true --trailing-comma all --print-width 80",
+      "prettier",
       "git add"
     ]
   },
