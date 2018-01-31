@@ -1,0 +1,1562 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    overflow-x: hidden;
+    backface-visibility: hidden;
+}
+
+@font-face {
+    font-family: jaapokkienchance;
+    src: url("./../fonts/jaapokkienchance-regularotf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+#white_container {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 2797.2px;
+    z-index: 10;
+    background-color: rgb(255, 255, 255);
+    right: 0%;
+    margin: auto;
+}
+
+#footer {
+    position: absolute;
+    top: 985.806px;
+    left: 0%;
+    width: 100%;
+    height: 239.8px;
+    z-index: 20;
+    background-color: rgb(37, 52, 111);
+    right: 0%;
+    margin: auto;
+}
+
+#veek-2017---todos {
+    position: absolute;
+    top: 189.109px;
+    left: 469px;
+    width: 197.8px;
+    z-index: 30;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 8.8px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -469px;
+    margin: auto;
+}
+
+#contrato-do-usurioguia-da-veektermos {
+    position: absolute;
+    top: 56.5094px;
+    left: -435.5px;
+    width: 168.6px;
+    z-index: 40;
+    font-family: Montserrat;
+    font-weight: 300;
+    letter-spacing: 0.025em;
+    font-size: 11.7px;
+    line-height: 3.3;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    direction: ltr;
+    right: 435.5px;
+    margin: auto;
+}
+
+#quer-saber-mais-sobre-a {
+    position: absolute;
+    top: 43.9094px;
+    left: 430px;
+    width: 275.8px;
+    z-index: 50;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: -430px;
+    margin: auto;
+}
+
+#download-the-app-and-play {
+    position: absolute;
+    top: 43.9094px;
+    left: 64.9px;
+    width: 333.3px;
+    z-index: 60;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: -64.9px;
+    margin: auto;
+}
+
+#coisinhas-importantes {
+    position: absolute;
+    top: 43.9094px;
+    left: -443.8px;
+    width: 206.6px;
+    z-index: 70;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: 443.8px;
+    margin: auto;
+}
+
+#rounded-rectangle-10 {
+    position: absolute;
+    top: 68.7094px;
+    left: 312.4px;
+    width: 53.6px;
+    height: 53.6px;
+    z-index: 80;
+    background: rgb(255, 255, 255);
+    border-radius: 2px;
+    right: -312.4px;
+    margin: auto;
+    cursor: pointer;
+    outline: none;
+    box-sizing: initial;
+    border: none;
+    transition: all 0.5s;
+}
+
+#rounded-rectangle-10-copy {
+    position: absolute;
+    top: 68.7094px;
+    left: 388.1px;
+    width: 53.6px;
+    height: 53.6px;
+    z-index: 90;
+    background: rgb(255, 255, 255);
+    border-radius: 2px;
+    right: -388.1px;
+    margin: auto;
+    cursor: pointer;
+    outline: none;
+    box-sizing: initial;
+    border: none;
+    transition: all 0.5s;
+}
+
+#rounded-rectangle-10-copy-2 {
+    position: absolute;
+    top: 68.7094px;
+    left: 462.8px;
+    width: 53.6px;
+    height: 53.6px;
+    z-index: 100;
+    background: rgb(255, 255, 255);
+    border-radius: 2px;
+    right: -462.8px;
+    margin: auto;
+    cursor: pointer;
+    outline: none;
+    box-sizing: initial;
+    border: none;
+    transition: all 0.5s;
+}
+
+#rounded-rectangle-10-copy-2-2 {
+    position: absolute;
+    top: 68.7094px;
+    left: 538px;
+    width: 53.6px;
+    height: 53.6px;
+    z-index: 110;
+    background: rgb(255, 255, 255);
+    border-radius: 2px;
+    right: -538px;
+    margin: auto;
+    cursor: pointer;
+    outline: none;
+    box-sizing: initial;
+    border: none;
+    transition: all 0.5s;
+}
+
+#vector-smart-object {
+    position: absolute;
+    top: 15.1063px;
+    left: -0.6px;
+    width: 10.7px;
+    height: 23.4px;
+    z-index: 120;
+    right: 0.6px;
+    margin: auto;
+}
+
+#vector-smart-object-2 {
+    position: absolute;
+    top: 18.0063px;
+    left: -0.5px;
+    width: 24.4px;
+    height: 17.5px;
+    z-index: 130;
+    right: 0.5px;
+    margin: auto;
+}
+
+#vector-smart-object-3 {
+    position: absolute;
+    top: 17.1063px;
+    left: -0.4px;
+    width: 24.4px;
+    height: 19.5px;
+    z-index: 140;
+    right: 0.4px;
+    margin: auto;
+}
+
+#forma-1 {
+    position: absolute;
+    top: 14.1063px;
+    left: 2px;
+    width: 24.4px;
+    height: 25.3px;
+    z-index: 150;
+    right: -2px;
+    margin: auto;
+}
+
+#rectangle-17-copy-3 {
+    position: absolute;
+    top: 66.3094px;
+    left: -541.8px;
+    width: 10.7px;
+    height: 15.6px;
+    z-index: 160;
+    right: 541.8px;
+    margin: auto;
+}
+
+#contact-us- {
+    position: absolute;
+    top: 70.2094px;
+    left: -208.9px;
+    width: 105.3px;
+    z-index: 170;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 300;
+    letter-spacing: 0.025em;
+    font-size: 11.7px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 208.9px;
+    margin: auto;
+    cursor: pointer;
+    outline: none;
+    box-sizing: initial;
+    border: none;
+    background: none;
+    transition: all 0.5s;
+}
+
+#desbravador {
+    position: absolute;
+    top: 43.9094px;
+    left: -224.9px;
+    width: 131.6px;
+    z-index: 180;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: 224.9px;
+    margin: auto;
+}
+
+#doubts {
+    position: absolute;
+    top: 108.209px;
+    left: -249.8px;
+    width: 81.9px;
+    z-index: 190;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: 249.8px;
+    margin: auto;
+}
+
+#rectangle-17-copy-7 {
+    position: absolute;
+    top: 66.3094px;
+    left: -284.5px;
+    width: 10.7px;
+    height: 16.6px;
+    z-index: 200;
+    right: 284.5px;
+    margin: auto;
+}
+
+#rectangle-17-copy-4 {
+    position: absolute;
+    top: 105.309px;
+    left: -541.8px;
+    width: 10.7px;
+    height: 15.6px;
+    z-index: 210;
+    right: 541.8px;
+    margin: auto;
+}
+
+#rectangle-17-copy-5 {
+    position: absolute;
+    top: 145.209px;
+    left: -541.8px;
+    width: 10.7px;
+    height: 15.6px;
+    z-index: 220;
+    right: 541.8px;
+    margin: auto;
+}
+
+#rectangle-17-copy-6 {
+    position: absolute;
+    top: 182.309px;
+    left: -541.8px;
+    width: 10.7px;
+    height: 15.6px;
+    z-index: 230;
+    right: 541.8px;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-3 {
+    position: absolute;
+    top: 0.1px;
+    left: -90.7px;
+    width: 158.9px;
+    height: 54.6px;
+    z-index: 250;
+    background: rgb(228, 30, 124);
+    transform: rotate(0.1deg);
+    border-radius: 2px;
+    right: 90.7px;
+    margin: auto;
+    cursor: pointer;
+    outline: none;
+    box-sizing: initial;
+    border: none;
+    transition: all 0.5s;
+}
+
+#forma-1-copy {
+    position: absolute;
+    top: 11.9621px;
+    left: -46.321px;
+    width: 26.2442px;
+    height: 30.2334px;
+    z-index: 260;
+    right: 46.321px;
+    margin: auto;
+}
+
+#app-store {
+    position: absolute;
+    top: 21.6013px;
+    left: 16.9764px;
+    width: 76.9827px;
+    z-index: 270;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -16.9764px;
+    margin: auto;
+    height: 10.1343px;
+}
+
+#rounded-rectangle-6-copy-3-2 {
+    position: absolute;
+    top: 0.1px;
+    left: 90.8px;
+    width: 158.9px;
+    height: 54.6px;
+    z-index: 280;
+    background: rgb(228, 30, 124);
+    transform: rotate(0.1deg);
+    border-radius: 2px;
+    right: -90.8px;
+    margin: auto;
+    cursor: pointer;
+    outline: none;
+    box-sizing: initial;
+    border: none;
+    transition: all 0.5s;
+}
+
+#shape-1-copy {
+    position: absolute;
+    top: 12.6679px;
+    left: -51.7008px;
+    width: 27.2443px;
+    height: 30.2351px;
+    z-index: 290;
+    right: 51.7008px;
+    margin: auto;
+}
+
+#google-play {
+    position: absolute;
+    top: 20.3971px;
+    left: 18.9951px;
+    width: 92.5748px;
+    z-index: 300;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -18.9951px;
+    margin: auto;
+    height: 11.1616px;
+}
+
+#_3003-1246 {
+    position: absolute;
+    top: 136.409px;
+    left: -208.9px;
+    width: 163.7px;
+    z-index: 330;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 31.2px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 208.9px;
+    margin: auto;
+}
+
+#text1 {
+    font-family: Montserrat;
+    font-weight: 700;
+    letter-spacing: 0em;
+    font-size: 31.2px;
+    line-height: 1.2;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+}
+
+#text2 {
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+}
+
+#mas-como-funciona-o-cash {
+    position: absolute;
+    top: 0.00625px;
+    left: 0px;
+    width: 698.9px;
+    z-index: 350;
+    text-align: center;
+    direction: ltr;
+    right: 0px;
+    margin: auto;
+}
+
+#text3 {
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+}
+
+#text4 {
+    font-family: Montserrat;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+}
+
+#if-you-want-to-know-everything {
+    position: absolute;
+    top: 881.506px;
+    left: -11.3px;
+    width: 463.9px;
+    z-index: 360;
+    text-align: center;
+    white-space: nowrap;
+    direction: ltr;
+    right: 11.3px;
+    margin: auto;
+}
+
+#vector-smart-object-4 {
+    position: absolute;
+    top: 95.0062px;
+    left: -16.1px;
+    width: 577px;
+    height: 757.3px;
+    z-index: 370;
+    right: 16.1px;
+    margin: auto;
+}
+
+#ellipse-4 {
+    position: absolute;
+    top: 0.00625px;
+    left: -221.7px;
+    width: 74.1px;
+    height: 74.1px;
+    z-index: 390;
+    background-color: rgb(37, 52, 111);
+    border-radius: 50%;
+    right: 221.7px;
+    margin: auto;
+}
+
+#_1 {
+    position: absolute;
+    top: 14.9062px;
+    left: -0.7px;
+    width: 14.3px;
+    z-index: 400;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 49px;
+    line-height: 1;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 0.7px;
+    margin: auto;
+}
+
+#you-send-your-veekcode-to {
+    position: absolute;
+    top: 30.7062px;
+    left: 45.8px;
+    width: 425.9px;
+    z-index: 410;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+    right: -45.8px;
+    margin: auto;
+}
+
+#ellipse-4-2 {
+    position: absolute;
+    top: 0.009375px;
+    left: -339.1px;
+    width: 74.1px;
+    height: 74.1px;
+    z-index: 430;
+    background-color: rgb(103, 80, 161);
+    border-radius: 50%;
+    right: 339.1px;
+    margin: auto;
+}
+
+#_2 {
+    position: absolute;
+    top: 20.0094px;
+    left: 2.3px;
+    width: 30.2px;
+    z-index: 440;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 49px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -2.3px;
+    margin: auto;
+}
+
+#basta-eles-usarem-o-seu {
+    position: absolute;
+    top: 21.5094px;
+    left: 46.3px;
+    width: 659.8px;
+    z-index: 450;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+    right: -46.3px;
+    margin: auto;
+}
+
+#ellipse-4-3 {
+    position: absolute;
+    top: 0.003125px;
+    left: -217.8px;
+    width: 74.1px;
+    height: 74.1px;
+    z-index: 470;
+    background-color: rgb(232, 43, 134);
+    border-radius: 50%;
+    right: 217.8px;
+    margin: auto;
+}
+
+#_3 {
+    position: absolute;
+    top: 20.0031px;
+    left: 1.4px;
+    width: 30.2px;
+    z-index: 480;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 49px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -1.4px;
+    margin: auto;
+}
+
+#oh-and-using-a-veekcode {
+    position: absolute;
+    top: 29.7031px;
+    left: 45.8px;
+    width: 418.1px;
+    z-index: 490;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.9;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+    right: -45.8px;
+    margin: auto;
+}
+
+#ellipse-4-4 {
+    position: absolute;
+    top: 0.00625px;
+    left: -324.5px;
+    width: 74.1px;
+    height: 74.1px;
+    z-index: 510;
+    background-color: rgb(9, 188, 211);
+    border-radius: 50%;
+    right: 324.5px;
+    margin: auto;
+}
+
+#_4 {
+    position: absolute;
+    top: 20.0062px;
+    left: 1.2px;
+    width: 29.7px;
+    z-index: 520;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 49px;
+    line-height: 0.6;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    direction: ltr;
+    right: -1.2px;
+    margin: auto;
+}
+
+#from-there-every-recharge {
+    position: absolute;
+    top: 18.5062px;
+    left: 45.8px;
+    width: 631.6px;
+    z-index: 530;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 15.5px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+    right: -45.8px;
+    margin: auto;
+}
+
+#ellipse-4-5 {
+    position: absolute;
+    top: 0px;
+    left: -346px;
+    width: 74.1px;
+    height: 74.1px;
+    z-index: 550;
+    background-color: rgb(47, 50, 78);
+    border-radius: 50%;
+    right: 346px;
+    margin: auto;
+}
+
+#_5 {
+    position: absolute;
+    top: 20px;
+    left: 3.3px;
+    width: 30.2px;
+    z-index: 560;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 49px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -3.3px;
+    margin: auto;
+}
+
+#what-if-your-friends {
+    position: absolute;
+    top: 18.4px;
+    left: 46.3px;
+    width: 673.5px;
+    z-index: 570;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 15.5px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+    right: -46.3px;
+    margin: auto;
+}
+
+#from-there-it-works-like-this {
+    position: absolute;
+    top: 31.125px;
+    left: 12.8125px;
+    width: 447.4px;
+    z-index: 590;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 700;
+    letter-spacing: 0em;
+    font-size: 31.2px;
+    line-height: 0.9;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+    right: -12.8125px;
+    margin: auto;
+}
+
+#destaque-veekcode {
+    position: absolute;
+    top: 36.7px;
+    left: 0%;
+    width: 100%;
+    height: 204.7px;
+    z-index: 610;
+    background-image: url("../images/rectangle-18_2.png");
+    background-size: cover;
+    background-position: center top;
+    right: 0%;
+    margin: auto;
+}
+
+#rectangle-23 {
+    position: absolute;
+    top: 30.7125px;
+    left: 88.8px;
+    width: 233.9px;
+    height: 40px;
+    z-index: 670;
+    background-color: rgb(103, 80, 161);
+    right: -88.8px;
+    margin: auto;
+}
+
+#rectangle-23-copy-2 {
+    position: absolute;
+    top: 96.0125px;
+    left: -298px;
+    width: 93.6px;
+    height: 17.5px;
+    z-index: 680;
+    background-color: rgb(103, 80, 161);
+    right: 298px;
+    margin: auto;
+}
+
+#rectangle-23-copy-3 {
+    position: absolute;
+    top: 115.513px;
+    left: 206.6px;
+    width: 86.7px;
+    height: 17.5px;
+    z-index: 690;
+    background-color: rgb(103, 80, 161);
+    right: -206.6px;
+    margin: auto;
+}
+
+#what-is-veekcode {
+    position: absolute;
+    top: 36.2125px;
+    left: 6.8px;
+    width: 400.6px;
+    z-index: 700;
+    white-space: nowrap;
+    font-family: Jaapokkienchance, jaapokkienchance;
+    font-weight: 400;
+    letter-spacing: 0em;
+    font-size: 37px;
+    line-height: 1;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -6.8px;
+    margin: auto;
+}
+
+#veekcode-is-nothing-else {
+    position: absolute;
+    top: 96.8125px;
+    left: 14.8px;
+    width: 749.5px;
+    z-index: 700;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 15.6px;
+    line-height: 1.2;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -14.8px;
+    margin: auto;
+}
+
+#vector-smart-object-5 {
+    position: absolute;
+    top: 169.513px;
+    left: 500.7px;
+    width: 154px;
+    height: 9.7px;
+    z-index: 720;
+    right: -500.7px;
+    margin: auto;
+}
+
+#obj {
+    position: absolute;
+    top: 0.003125px;
+    left: -17px;
+    width: 15.6px;
+    height: 15.6px;
+    z-index: 730;
+    right: 17px;
+    margin: auto;
+}
+
+#copy {
+    position: absolute;
+    top: 0.003125px;
+    left: 0px;
+    width: 16.6px;
+    height: 15.6px;
+    z-index: 740;
+    right: 0px;
+    margin: auto;
+}
+
+#copy-2 {
+    position: absolute;
+    top: 0.003125px;
+    left: 17px;
+    width: 15.6px;
+    height: 15.6px;
+    z-index: 750;
+    right: -17px;
+    margin: auto;
+}
+
+#text5 {
+    font-family: Montserrat;
+    font-weight: 700;
+    letter-spacing: 0em;
+    font-size: 31.2px;
+    line-height: 1.2;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+}
+
+#text6 {
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+}
+
+#primeiro-lugar {
+    position: absolute;
+    top: 690.5px;
+    left: 27.3px;
+    width: 792.1px;
+    z-index: 780;
+    text-align: center;
+    direction: ltr;
+    right: -27.3px;
+    margin: auto;
+}
+
+#rectangle-16-copy {
+    position: absolute;
+    top: 0.003125px;
+    left: 0%;
+    width: 100%;
+    height: 153px;
+    z-index: 800;
+    background-color: rgb(248, 248, 248);
+    right: 0%;
+    margin: auto;
+}
+
+#text7 {
+    font-family: Montserrat;
+    font-weight: 700;
+    letter-spacing: 0em;
+    font-size: 31.2px;
+    line-height: 1.2;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+}
+
+#text8 {
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+}
+
+#text9 {
+    font-family: Montserrat;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+}
+
+#o-nosso-app-veeker-ainda {
+    position: absolute;
+    top: 43.8031px;
+    left: 27.9px;
+    width: 877px;
+    z-index: 810;
+    text-align: center;
+    direction: ltr;
+    right: -27.9px;
+    margin: auto;
+}
+
+#vector-smart-object-6 {
+    position: absolute;
+    top: 3.40312px;
+    left: 506px;
+    width: 268px;
+    height: 95.5px;
+    z-index: 820;
+    right: -506px;
+    margin: auto;
+}
+
+#vector-smart-object-7 {
+    position: absolute;
+    top: 144.703px;
+    left: -489.6px;
+    width: 159.8px;
+    height: 19.5px;
+    z-index: 830;
+    right: 489.6px;
+    margin: auto;
+}
+
+#text10 {
+    font-family: Montserrat;
+    font-weight: 700;
+    letter-spacing: 0em;
+    font-size: 31.2px;
+    line-height: 1.2;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+}
+
+#text11 {
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+}
+
+#text12 {
+    font-family: Montserrat;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-decoration: underline;
+    text-align: center;
+    direction: ltr;
+}
+
+#veeker-2 {
+    position: absolute;
+    top: 385.5px;
+    left: 26.6px;
+    width: 784.9px;
+    z-index: 850;
+    text-align: center;
+    direction: ltr;
+    right: -26.6px;
+    margin: auto;
+}
+
+#banner {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 364.5px;
+    z-index: 870;
+    background-image: url("../images/rectangle-21.jpg");
+    background-size: cover;
+    background-position: center top;
+    right: 0%;
+    margin: auto;
+}
+
+#layer-1 {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 270.9px;
+    z-index: 890;
+    opacity: 0.301961;
+    background-image: url("../images/layer-1_1.png");
+    background-size: cover;
+    background-position: center top;
+    right: 0%;
+    margin: auto;
+}
+
+#layer-2 {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 304.1px;
+    z-index: 900;
+    opacity: 0.301961;
+    background-image: url("../images/layer-2_1.png");
+    background-size: cover;
+    background-position: center top;
+    right: 0%;
+    margin: auto;
+    display: none;
+}
+
+#veeker {
+    position: absolute;
+    top: 0.0125px;
+    left: 0px;
+    width: 388.9px;
+    z-index: 910;
+    white-space: nowrap;
+    font-family: Jaapokkienchance, jaapokkienchance;
+    font-weight: 400;
+    letter-spacing: 0em;
+    font-size: 98.5px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 0px;
+    margin: auto;
+}
+
+#use-indique-e-ganhe {
+    position: absolute;
+    top: 88.7125px;
+    left: -15.7px;
+    width: 351.8px;
+    z-index: 920;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 300;
+    letter-spacing: 0em;
+    font-size: 29.2px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 15.7px;
+    margin: auto;
+}
+
+#header {
+    position: absolute;
+    top: 30.2px;
+    left: -482.3px;
+    width: 129.6px;
+    height: 48.7px;
+    z-index: 960;
+    right: 482.3px;
+    margin: auto;
+}
+
+#flutuante {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 64.8px;
+    z-index: 970;
+    background-color: rgb(37, 52, 111);
+    right: 0%;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-13 {
+    position: absolute;
+    top: 7.8px;
+    left: 512.9px;
+    width: 141.3px;
+    height: 43.9px;
+    z-index: 980;
+    background: rgb(227, 29, 123);
+    border: 3px solid rgb(227, 29, 123);
+    border-radius: 2px;
+    right: -512.9px;
+    margin: auto;
+    cursor: pointer;
+    outline: none;
+    box-sizing: initial;
+    transition: all 0.5s;
+}
+
+#vector-smart-object-copy-2 {
+    position: absolute;
+    top: 4.4125px;
+    left: -439.6px;
+    width: 75px;
+    height: 28.3px;
+    z-index: 990;
+    right: 439.6px;
+    margin: auto;
+}
+
+#shape-1-copy-2 {
+    position: absolute;
+    top: 11.6031px;
+    left: -48.3px;
+    width: 20.5px;
+    height: 21.4px;
+    z-index: 1000;
+    right: 48.3px;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-14 {
+    position: absolute;
+    top: 0.0125px;
+    left: 411.3px;
+    width: 131.6px;
+    height: 43.9px;
+    z-index: 1010;
+    background: rgb(228, 30, 124);
+    border-radius: 2px;
+    right: -411.3px;
+    margin: auto;
+    cursor: pointer;
+    outline: none;
+    box-sizing: initial;
+    border: none;
+    transition: all 0.5s;
+}
+
+#forma-1-copy-2 {
+    position: absolute;
+    top: 10.2125px;
+    left: -43.8px;
+    width: 20.5px;
+    height: 23.4px;
+    z-index: 1020;
+    right: 43.8px;
+    margin: auto;
+}
+
+#app-store-2 {
+    position: absolute;
+    top: 16.1125px;
+    left: 13.6px;
+    width: 77px;
+    z-index: 1030;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -13.6px;
+    margin: auto;
+}
+
+#google-play-2 {
+    position: absolute;
+    top: 15.5031px;
+    left: 16.9px;
+    width: 92.6px;
+    z-index: 1040;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -16.9px;
+    margin: auto;
+}
+
+#download-the-app-and-play-2 {
+    position: absolute;
+    top: 16.1125px;
+    left: 147.5px;
+    width: 330.4px;
+    z-index: 1050;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -147.5px;
+    margin: auto;
+}
+
+#group-17 {
+    position: absolute;
+    top: 11.2px;
+    left: -68px;
+    width: 954.191px;
+    height: 43.9px;
+    z-index: 990;
+    right: 68px;
+    margin: auto;
+}
+
+#txt {
+    position: absolute;
+    top: 164.7px;
+    left: -354.6px;
+    width: 388.9px;
+    height: 108.7px;
+    z-index: 910;
+    right: 354.6px;
+    margin: auto;
+}
+
+#desenvolvimento {
+    position: absolute;
+    top: 507.3px;
+    left: 0%;
+    width: 100%;
+    height: 164.2px;
+    z-index: 800;
+    right: 0%;
+    margin: auto;
+}
+
+#alt-j {
+    position: absolute;
+    top: 32.1125px;
+    left: -523.2px;
+    width: 49.7px;
+    height: 15.6px;
+    z-index: 730;
+    right: 523.2px;
+    margin: auto;
+}
+
+#_1-2 {
+    position: absolute;
+    top: 87.225px;
+    left: -128.488px;
+    width: 517.484px;
+    height: 74.1px;
+    z-index: 390;
+    right: 128.488px;
+    margin: auto;
+}
+
+#_2-2 {
+    position: absolute;
+    top: 188.525px;
+    left: -11.0875px;
+    width: 752.4px;
+    height: 74.1px;
+    z-index: 430;
+    right: 11.0875px;
+    margin: auto;
+}
+
+#_3-2 {
+    position: absolute;
+    top: 289.925px;
+    left: -132.387px;
+    width: 509.7px;
+    height: 74.1px;
+    z-index: 470;
+    right: 132.387px;
+    margin: auto;
+}
+
+#_4-2 {
+    position: absolute;
+    top: 391.225px;
+    left: -25.6875px;
+    width: 723.2px;
+    height: 74.1px;
+    z-index: 510;
+    right: 25.6875px;
+    margin: auto;
+}
+
+#_5-2 {
+    position: absolute;
+    top: 492.625px;
+    left: -4.1875px;
+    width: 766.1px;
+    height: 74.1px;
+    z-index: 550;
+    right: 4.1875px;
+    margin: auto;
+}
+
+#cashback {
+    position: absolute;
+    top: 57.5062px;
+    left: 23.6px;
+    width: 698.9px;
+    height: 899.5px;
+    z-index: 350;
+    right: -23.6px;
+    margin: auto;
+}
+
+#lojas-copy {
+    position: absolute;
+    top: 69.1094px;
+    left: 64px;
+    width: 332.4px;
+    height: 54.9px;
+    z-index: 250;
+    right: -64px;
+    margin: auto;
+}
+
+#group {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 304.1px;
+    z-index: 900;
+    right: 0%;
+    margin: auto;
+}
+
+#group-5 {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 78.8752px;
+    z-index: 900;
+    right: 0%;
+    margin: auto;
+}
+
+section {
+    width: 100%;
+    left: 0px;
+    position: relative;
+    overflow: visible;
+}
+
+#primeiro-lugar-section {
+    z-index: 780;
+    height: 763.5px;
+}
+
+#destaque-veekcode-section {
+    z-index: 610;
+    height: 241.375px;
+}
+
+#funciona-assim-section {
+    z-index: 390;
+    height: 566.719px;
+}
+
+#footer-section {
+    z-index: 20;
+    height: 1298.4px;
+}
+
+#rounded-rectangle-6-copy-14:hover {
+    opacity: 0.85;
+}
+
+#rounded-rectangle-6-copy-13:hover {
+    opacity: 0.85;
+}
+
+#rounded-rectangle-6-copy-3:hover {
+    opacity: 0.85;
+}
+
+#rounded-rectangle-10:hover {
+    opacity: 0.85;
+}
+
+#rounded-rectangle-10-copy:hover {
+    opacity: 0.85;
+}
+
+#rounded-rectangle-10-copy-2:hover {
+    opacity: 0.85;
+}
+
+#rounded-rectangle-10-copy-2-2:hover {
+    opacity: 0.85;
+}
+
+#rounded-rectangle-6-copy-3-2:hover {
+    opacity: 0.85;
+}
+
+#contact-us-:hover {
+    opacity: 0.85;
+}

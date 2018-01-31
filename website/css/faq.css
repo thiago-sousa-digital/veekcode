@@ -1,0 +1,1214 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    overflow-x: hidden;
+    backface-visibility: hidden;
+}
+
+@font-face {
+    font-family: jaapokkienchance;
+    src: url("./../fonts/jaapokkienchance-regularotf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+#white_container {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 1659.8px;
+    z-index: 10;
+    background-color: rgb(255, 255, 255);
+    right: 0%;
+    margin: auto;
+}
+
+#footer {
+    position: absolute;
+    top: 27.3125px;
+    left: 0%;
+    width: 100%;
+    height: 239.8px;
+    z-index: 20;
+    background-color: rgb(37, 52, 111);
+    right: 0%;
+    margin: auto;
+}
+
+#veek-2017---todos {
+    position: absolute;
+    top: 189.1px;
+    left: 469px;
+    width: 197.8px;
+    z-index: 30;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 8.8px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -469px;
+    margin: auto;
+}
+
+#contrato-do-usurioguia-da-veektermos {
+    position: absolute;
+    top: 41.5px;
+    left: -435.5px;
+    width: 168.6px;
+    z-index: 40;
+    font-family: Montserrat;
+    font-weight: 300;
+    letter-spacing: 0.025em;
+    font-size: 11.7px;
+    line-height: 3.3;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    direction: ltr;
+    right: 435.5px;
+    margin: auto;
+}
+
+#quer-saber-mais-sobre-a {
+    position: absolute;
+    top: 43.9px;
+    left: 430px;
+    width: 275.8px;
+    z-index: 50;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: -430px;
+    margin: auto;
+}
+
+#download-the-app-and-play {
+    position: absolute;
+    top: 43.9px;
+    left: 64.9px;
+    width: 333.3px;
+    z-index: 60;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: -64.9px;
+    margin: auto;
+}
+
+#coisinhas-importantes {
+    position: absolute;
+    top: 43.9px;
+    left: -443.8px;
+    width: 206.6px;
+    z-index: 70;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: 443.8px;
+    margin: auto;
+}
+
+#rounded-rectangle-10 {
+    position: absolute;
+    top: 68.7px;
+    left: 320.4px;
+    width: 53.6px;
+    height: 53.6px;
+    z-index: 80;
+    background-color: rgb(255, 255, 255);
+    border-radius: 2px;
+    right: -320.4px;
+    margin: auto;
+}
+
+#rounded-rectangle-10-copy {
+    position: absolute;
+    top: 68.7px;
+    left: 388.1px;
+    width: 53.6px;
+    height: 53.6px;
+    z-index: 90;
+    background-color: rgb(255, 255, 255);
+    border-radius: 2px;
+    right: -388.1px;
+    margin: auto;
+}
+
+#rounded-rectangle-10-copy-2 {
+    position: absolute;
+    top: 68.7px;
+    left: 456.8px;
+    width: 53.6px;
+    height: 53.6px;
+    z-index: 100;
+    background-color: rgb(255, 255, 255);
+    border-radius: 2px;
+    right: -456.8px;
+    margin: auto;
+}
+
+#rounded-rectangle-10-copy-2-2 {
+    position: absolute;
+    top: 68.7px;
+    left: 525px;
+    width: 53.6px;
+    height: 53.6px;
+    z-index: 110;
+    background-color: rgb(255, 255, 255);
+    border-radius: 2px;
+    right: -525px;
+    margin: auto;
+}
+
+#vector-smart-object {
+    position: absolute;
+    top: 15.1125px;
+    left: -0.6px;
+    width: 10.7px;
+    height: 23.4px;
+    z-index: 120;
+    right: 0.6px;
+    margin: auto;
+}
+
+#vector-smart-object-2 {
+    position: absolute;
+    top: 18.1125px;
+    left: -0.5px;
+    width: 24.4px;
+    height: 17.5px;
+    z-index: 130;
+    right: 0.5px;
+    margin: auto;
+}
+
+#vector-smart-object-3 {
+    position: absolute;
+    top: 17.1125px;
+    left: -0.4px;
+    width: 24.4px;
+    height: 19.5px;
+    z-index: 140;
+    right: 0.4px;
+    margin: auto;
+}
+
+#forma-1 {
+    position: absolute;
+    top: 14.2125px;
+    left: 0px;
+    width: 24.4px;
+    height: 25.3px;
+    z-index: 150;
+    right: 0px;
+    margin: auto;
+}
+
+#rectangle-17-copy-3 {
+    position: absolute;
+    top: 66.3px;
+    left: -541.8px;
+    width: 10.7px;
+    height: 15.6px;
+    z-index: 160;
+    right: 541.8px;
+    margin: auto;
+}
+
+#contact-us- {
+    position: absolute;
+    top: 70.2px;
+    left: -208.9px;
+    width: 105.3px;
+    z-index: 170;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 300;
+    letter-spacing: 0.025em;
+    font-size: 11.7px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 208.9px;
+    margin: auto;
+}
+
+#desbravador {
+    position: absolute;
+    top: 43.9px;
+    left: -224.9px;
+    width: 131.6px;
+    z-index: 180;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: 224.9px;
+    margin: auto;
+}
+
+#doubts {
+    position: absolute;
+    top: 108.2px;
+    left: -249.8px;
+    width: 81.9px;
+    z-index: 190;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: 249.8px;
+    margin: auto;
+}
+
+#rectangle-17-copy-7 {
+    position: absolute;
+    top: 66.3px;
+    left: -284.5px;
+    width: 10.7px;
+    height: 16.6px;
+    z-index: 200;
+    right: 284.5px;
+    margin: auto;
+}
+
+#rectangle-17-copy-4 {
+    position: absolute;
+    top: 105.3px;
+    left: -541.8px;
+    width: 10.7px;
+    height: 15.6px;
+    z-index: 210;
+    right: 541.8px;
+    margin: auto;
+}
+
+#rectangle-17-copy-5 {
+    position: absolute;
+    top: 145.2px;
+    left: -541.8px;
+    width: 10.7px;
+    height: 15.6px;
+    z-index: 220;
+    right: 541.8px;
+    margin: auto;
+}
+
+#rectangle-17-copy-6 {
+    position: absolute;
+    top: 182.3px;
+    left: -541.8px;
+    width: 10.7px;
+    height: 15.6px;
+    z-index: 230;
+    right: 541.8px;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-3 {
+    position: absolute;
+    top: 0.2px;
+    left: -86.7px;
+    width: 158.9px;
+    height: 54.6px;
+    z-index: 250;
+    background-color: rgb(228, 30, 124);
+    transform: rotate(0.1deg);
+    border-radius: 2px;
+    right: 86.7px;
+    margin: auto;
+}
+
+#forma-1-copy {
+    position: absolute;
+    top: 11.9px;
+    left: -133px;
+    width: 26.3px;
+    height: 30.2px;
+    z-index: 260;
+    right: 133px;
+    margin: auto;
+}
+
+#app-store {
+    position: absolute;
+    top: 21.7px;
+    left: -69.7px;
+    width: 77px;
+    z-index: 270;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 69.7px;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-3-2 {
+    position: absolute;
+    top: 0.2px;
+    left: 86.8px;
+    width: 158.9px;
+    height: 54.6px;
+    z-index: 280;
+    background-color: rgb(228, 30, 124);
+    transform: rotate(0.1deg);
+    border-radius: 2px;
+    right: -86.8px;
+    margin: auto;
+}
+
+#shape-1-copy {
+    position: absolute;
+    top: 12.9px;
+    left: 35.1px;
+    width: 27.3px;
+    height: 30.2px;
+    z-index: 290;
+    right: -35.1px;
+    margin: auto;
+}
+
+#google-play {
+    position: absolute;
+    top: 20.7px;
+    left: 105.8px;
+    width: 92.6px;
+    z-index: 300;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -105.8px;
+    margin: auto;
+}
+
+#_3003-1246 {
+    position: absolute;
+    top: 136.5px;
+    left: -208.9px;
+    width: 163.7px;
+    z-index: 330;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 31.2px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 208.9px;
+    margin: auto;
+}
+
+#veek-is-a-new {
+    position: absolute;
+    top: 38.4031px;
+    left: 47.8px;
+    width: 759.2px;
+    z-index: 350;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 15.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+    right: -47.8px;
+    margin: auto;
+}
+
+#vector-smart-object-4 {
+    position: absolute;
+    top: 180.303px;
+    left: -331.3px;
+    width: 192px;
+    height: 10.7px;
+    z-index: 360;
+    right: 331.3px;
+    margin: auto;
+}
+
+#rectangle-17-copy-2 {
+    position: absolute;
+    top: 0.003125px;
+    left: -351.8px;
+    width: 20.5px;
+    height: 12.7px;
+    z-index: 370;
+    right: 351.8px;
+    margin: auto;
+}
+
+#como-funciona-a-veek {
+    position: absolute;
+    top: 0.003125px;
+    left: -202.8px;
+    width: 252.4px;
+    z-index: 380;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 17.5px;
+    line-height: 0.8;
+    color: rgb(103, 79, 161);
+    text-align: center;
+    direction: ltr;
+    right: 202.8px;
+    margin: auto;
+}
+
+#rectangle-17-copy-8 {
+    position: absolute;
+    top: 0px;
+    left: -149.1px;
+    width: 12.7px;
+    height: 19.5px;
+    z-index: 400;
+    right: 149.1px;
+    margin: auto;
+}
+
+#a-veek-faz-portabilidade {
+    position: absolute;
+    top: 3.9px;
+    left: 14.6px;
+    width: 281.7px;
+    z-index: 410;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 17.5px;
+    line-height: 0.8;
+    color: rgb(103, 79, 161);
+    text-align: center;
+    direction: ltr;
+    right: -14.6px;
+    margin: auto;
+}
+
+#rectangle-17-copy-8-2 {
+    position: absolute;
+    top: 8.6px;
+    left: -150.1px;
+    width: 12.7px;
+    height: 20.5px;
+    z-index: 430;
+    right: 150.1px;
+    margin: auto;
+}
+
+#quando-a-veek-vai-chegarna {
+    position: absolute;
+    top: 0px;
+    left: 14.6px;
+    width: 283.6px;
+    z-index: 440;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 17.5px;
+    line-height: 1.2;
+    color: rgb(103, 79, 161);
+    text-align: left;
+    direction: ltr;
+    right: -14.6px;
+    margin: auto;
+}
+
+#ellipse-4 {
+    position: absolute;
+    top: 0px;
+    left: -322.1px;
+    width: 74.1px;
+    height: 74.1px;
+    z-index: 460;
+    background-color: rgb(103, 80, 161);
+    border-radius: 50%;
+    right: 322.1px;
+    margin: auto;
+}
+
+#_1 {
+    position: absolute;
+    top: 19.9px;
+    left: -0.7px;
+    width: 14.3px;
+    z-index: 470;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 49px;
+    line-height: 1;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 0.7px;
+    margin: auto;
+}
+
+#sobre-a-veek {
+    position: absolute;
+    top: 37.5px;
+    left: -199.3px;
+    width: 134.5px;
+    z-index: 480;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 19.5px;
+    line-height: 0.8;
+    color: rgb(103, 79, 161);
+    text-align: center;
+    direction: ltr;
+    right: 199.3px;
+    margin: auto;
+}
+
+#ellipse-4-copy {
+    position: absolute;
+    top: 0.00625px;
+    left: -96.9px;
+    width: 40px;
+    height: 40px;
+    z-index: 500;
+    background-color: rgb(37, 52, 111);
+    border-radius: 50%;
+    right: 96.9px;
+    margin: auto;
+}
+
+#sobre-o-veekchip {
+    position: absolute;
+    top: 13.1063px;
+    left: 25.4px;
+    width: 183.2px;
+    z-index: 510;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 19.5px;
+    line-height: 0.8;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+    right: -25.4px;
+    margin: auto;
+}
+
+#_2 {
+    position: absolute;
+    top: 10.2062px;
+    left: 1.4px;
+    width: 15.6px;
+    z-index: 520;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 25.4px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    direction: ltr;
+    right: -1.4px;
+    margin: auto;
+}
+
+#ellipse-4-copy-7 {
+    position: absolute;
+    top: 0.009375px;
+    left: -96px;
+    width: 40px;
+    height: 40px;
+    z-index: 540;
+    background-color: rgb(37, 52, 111);
+    border-radius: 50%;
+    right: 96px;
+    margin: auto;
+}
+
+#sobre-os-veekers {
+    position: absolute;
+    top: 12.6094px;
+    left: 25.4px;
+    width: 181.3px;
+    z-index: 550;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 19.5px;
+    line-height: 0.8;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+    right: -25.4px;
+    margin: auto;
+}
+
+#_3 {
+    position: absolute;
+    top: 9.70937px;
+    left: -0.5px;
+    width: 15.6px;
+    z-index: 560;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 25.4px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    direction: ltr;
+    right: 0.5px;
+    margin: auto;
+}
+
+#rectangle-16-copy {
+    position: absolute;
+    top: 545.763px;
+    left: 0%;
+    width: 100%;
+    height: 141.3px;
+    z-index: 590;
+    background-color: rgb(248, 248, 248);
+    right: 0%;
+    margin: auto;
+}
+
+#text18 {
+    font-family: Montserrat;
+    font-weight: 700;
+    letter-spacing: 0em;
+    font-size: 31.2px;
+    line-height: 1.2;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+}
+
+#text19 {
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+}
+
+#can-not-find-it {
+    position: absolute;
+    top: 43.9125px;
+    left: 23.6px;
+    width: 675.4px;
+    z-index: 600;
+    text-align: center;
+    direction: ltr;
+    right: -23.6px;
+    margin: auto;
+}
+
+#vector-smart-object-5 {
+    position: absolute;
+    top: 3.4125px;
+    left: 506px;
+    width: 268px;
+    height: 95.5px;
+    z-index: 610;
+    right: -506px;
+    margin: auto;
+}
+
+#vector-smart-object-6 {
+    position: absolute;
+    top: 679.763px;
+    left: -489.6px;
+    width: 159.8px;
+    height: 19.5px;
+    z-index: 620;
+    right: 489.6px;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-4 {
+    position: absolute;
+    top: 169.578px;
+    left: -14.3px;
+    width: 786.5px;
+    height: 43.9px;
+    z-index: 640;
+    background-color: rgb(255, 255, 255);
+    transform: rotate(25.9deg);
+    border-radius: 4px;
+    right: 14.3px;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-2 {
+    position: absolute;
+    top: 169.578px;
+    left: 315.6px;
+    width: 126.7px;
+    height: 43.9px;
+    z-index: 650;
+    background-color: rgb(9, 188, 211);
+    border-radius: 2px;
+    right: -315.6px;
+    margin: auto;
+}
+
+#buscar {
+    position: absolute;
+    top: 17.1153px;
+    left: 0.5px;
+    width: 52.6px;
+    z-index: 660;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 11.7px;
+    line-height: 0.5;
+    color: rgb(255, 255, 255);
+    text-align: right;
+    direction: ltr;
+    right: -0.5px;
+    margin: auto;
+}
+
+#pesquise-aqui-sua-dvida {
+    position: absolute;
+    top: 182.778px;
+    left: -285.3px;
+    width: 187.1px;
+    z-index: 670;
+    white-space: nowrap;
+    font-family: "Open Sans";
+    font-weight: 300;
+    letter-spacing: 0.025em;
+    font-size: 13.6px;
+    line-height: 1;
+    color: rgb(197, 197, 197);
+    text-align: center;
+    direction: ltr;
+    right: 285.3px;
+    margin: auto;
+}
+
+#text20 {
+    font-family: Montserrat;
+    font-weight: 700;
+    letter-spacing: 0em;
+    font-size: 31.2px;
+    line-height: 1.2;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+}
+
+#text21 {
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+}
+
+#dvida {
+    position: absolute;
+    top: 75.0781px;
+    left: -3.1px;
+    width: 390.9px;
+    z-index: 690;
+    text-align: center;
+    direction: ltr;
+    right: 3.1px;
+    margin: auto;
+}
+
+#banner {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 364.5px;
+    z-index: 710;
+    background-image: url("../images/rectangle-21_2.jpg");
+    background-size: cover;
+    background-position: center top;
+    right: 0%;
+    margin: auto;
+}
+
+#faq {
+    position: absolute;
+    top: 0.003125px;
+    left: -11.6px;
+    width: 275.8px;
+    z-index: 730;
+    white-space: nowrap;
+    font-family: Jaapokkienchance, jaapokkienchance;
+    font-weight: 400;
+    letter-spacing: 0em;
+    font-size: 142.8px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 11.6px;
+    margin: auto;
+}
+
+#tire-suas-dvidas {
+    position: absolute;
+    top: 114.003px;
+    left: 0.4px;
+    width: 298.2px;
+    z-index: 740;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 300;
+    letter-spacing: 0em;
+    font-size: 29.3px;
+    line-height: 1;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -0.4px;
+    margin: auto;
+}
+
+#header {
+    position: absolute;
+    top: 30.2px;
+    left: -482.3px;
+    width: 129.6px;
+    height: 48.7px;
+    z-index: 780;
+    right: 482.3px;
+    margin: auto;
+}
+
+#flutuante {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 65.8px;
+    z-index: 790;
+    background-color: rgb(37, 52, 111);
+    right: 0%;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-13 {
+    position: absolute;
+    top: 8.3px;
+    left: 491.9px;
+    width: 141.3px;
+    height: 43.9px;
+    z-index: 800;
+    background-color: rgb(227, 29, 123);
+    border-color: rgb(227, 29, 123);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 2px;
+    right: -491.9px;
+    margin: auto;
+}
+
+#vector-smart-object-copy-2 {
+    position: absolute;
+    top: 4.4125px;
+    left: -439.6px;
+    width: 75px;
+    height: 28.3px;
+    z-index: 810;
+    right: 439.6px;
+    margin: auto;
+}
+
+#shape-1-copy-2 {
+    position: absolute;
+    top: 11.1031px;
+    left: -48.3px;
+    width: 20.5px;
+    height: 21.4px;
+    z-index: 820;
+    right: 48.3px;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-14 {
+    position: absolute;
+    top: 0.0125px;
+    left: 411.3px;
+    width: 131.6px;
+    height: 43.9px;
+    z-index: 830;
+    background-color: rgb(228, 30, 124);
+    border-radius: 2px;
+    right: -411.3px;
+    margin: auto;
+}
+
+#forma-1-copy-2 {
+    position: absolute;
+    top: 10.2125px;
+    left: -43.8px;
+    width: 20.5px;
+    height: 23.4px;
+    z-index: 840;
+    right: 43.8px;
+    margin: auto;
+}
+
+#app-store-2 {
+    position: absolute;
+    top: 16.1125px;
+    left: 13.6px;
+    width: 77px;
+    z-index: 850;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -13.6px;
+    margin: auto;
+}
+
+#google-play-2 {
+    position: absolute;
+    top: 15.0031px;
+    left: 16.9px;
+    width: 92.6px;
+    z-index: 860;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -16.9px;
+    margin: auto;
+}
+
+#download-the-app-and-play-2 {
+    position: absolute;
+    top: 16.1125px;
+    left: 173.5px;
+    width: 330.4px;
+    z-index: 870;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -173.5px;
+    margin: auto;
+}
+
+#group-17 {
+    position: absolute;
+    top: 11.2px;
+    left: -68px;
+    width: 954.191px;
+    height: 43.9px;
+    z-index: 810;
+    right: 68px;
+    margin: auto;
+}
+
+#txt {
+    position: absolute;
+    top: 162.8px;
+    left: -398.5px;
+    width: 299.1px;
+    height: 143px;
+    z-index: 730;
+    right: 398.5px;
+    margin: auto;
+}
+
+#busca {
+    position: absolute;
+    top: 310.426px;
+    left: 19.9px;
+    width: 757.781px;
+    height: 383.027px;
+    z-index: 640;
+    right: -19.9px;
+    margin: auto;
+}
+
+#_3---fechado {
+    position: absolute;
+    top: -521.366px;
+    left: -268.394px;
+    width: 232px;
+    height: 40px;
+    z-index: 540;
+    right: 268.394px;
+    margin: auto;
+}
+
+#_2---fechado {
+    position: absolute;
+    top: -605.666px;
+    left: -267.394px;
+    width: 233.9px;
+    height: 40px;
+    z-index: 500;
+    right: 267.394px;
+    margin: auto;
+}
+
+#quando-a-veek-vai-chegar {
+    position: absolute;
+    top: 390.5px;
+    left: -201.7px;
+    width: 312.8px;
+    height: 42px;
+    z-index: 430;
+    right: 201.7px;
+    margin: auto;
+}
+
+#portabilidade {
+    position: absolute;
+    top: 326px;
+    left: -202.7px;
+    width: 310.9px;
+    height: 19.5px;
+    z-index: 400;
+    right: 202.7px;
+    margin: auto;
+}
+
+#como-funciona {
+    position: absolute;
+    top: 102.8px;
+    left: 0px;
+    width: 854.7px;
+    height: 191px;
+    z-index: 350;
+    right: 0px;
+    margin: auto;
+}
+
+#_1---aberto {
+    position: absolute;
+    top: -1082.27px;
+    left: -28.0938px;
+    width: 854.7px;
+    height: 432.5px;
+    z-index: 350;
+    right: 28.0938px;
+    margin: auto;
+}
+
+#lojas-copy {
+    position: absolute;
+    top: 69px;
+    left: 64px;
+    width: 332.4px;
+    height: 54.9px;
+    z-index: 250;
+    right: -64px;
+    margin: auto;
+}
+
+section {
+    width: 100%;
+    left: 0px;
+    position: relative;
+    overflow: visible;
+}
+
+#banner-section {
+    z-index: 710;
+    height: 693.443px;
+}
+
+#planos-section {
+    z-index: 590;
+    height: 699.25px;
+}
+
+#footer-section {
+    z-index: 20;
+    height: 267.109px;
+}
+
+#faq-2-section {
+    z-index: 350;
+    height: 43.2188px;
+}

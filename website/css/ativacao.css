@@ -1,0 +1,1956 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    overflow-x: hidden;
+    backface-visibility: hidden;
+}
+
+@font-face {
+    font-family: jaapokkienchance;
+    src: url("./../fonts/jaapokkienchance-regularotf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+#white_container {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 3040.8px;
+    z-index: 10;
+    background-color: rgb(255, 255, 255);
+    right: 0%;
+    margin: auto;
+}
+
+#footer {
+    position: absolute;
+    top: 1194.05px;
+    left: 0%;
+    width: 100%;
+    height: 239.8px;
+    z-index: 20;
+    background-color: rgb(37, 52, 111);
+    right: 0%;
+    margin: auto;
+}
+
+#veek-2017---todos {
+    position: absolute;
+    top: 189.006px;
+    left: 469px;
+    width: 197.8px;
+    z-index: 30;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 8.8px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -469px;
+    margin: auto;
+}
+
+#contrato-do-usurioguia-da-veektermos {
+    position: absolute;
+    top: 41.5062px;
+    left: -435.5px;
+    width: 168.6px;
+    z-index: 40;
+    font-family: Montserrat;
+    font-weight: 300;
+    letter-spacing: 0.025em;
+    font-size: 11.7px;
+    line-height: 3.3;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    direction: ltr;
+    right: 435.5px;
+    margin: auto;
+}
+
+#quer-saber-mais-sobre-a {
+    position: absolute;
+    top: 43.8063px;
+    left: 430px;
+    width: 275.8px;
+    z-index: 50;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: -430px;
+    margin: auto;
+}
+
+#download-the-app-and-play {
+    position: absolute;
+    top: 43.8063px;
+    left: 64.9px;
+    width: 333.3px;
+    z-index: 60;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: -64.9px;
+    margin: auto;
+}
+
+#coisinhas-importantes {
+    position: absolute;
+    top: 43.8063px;
+    left: -443.8px;
+    width: 206.6px;
+    z-index: 70;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: 443.8px;
+    margin: auto;
+}
+
+#rounded-rectangle-10 {
+    position: absolute;
+    top: 68.2063px;
+    left: 320.4px;
+    width: 53.6px;
+    height: 53.6px;
+    z-index: 80;
+    background-color: rgb(255, 255, 255);
+    border-radius: 2px;
+    right: -320.4px;
+    margin: auto;
+}
+
+#rounded-rectangle-10-copy {
+    position: absolute;
+    top: 68.2063px;
+    left: 388.1px;
+    width: 53.6px;
+    height: 53.6px;
+    z-index: 90;
+    background-color: rgb(255, 255, 255);
+    border-radius: 2px;
+    right: -388.1px;
+    margin: auto;
+}
+
+#rounded-rectangle-10-copy-2 {
+    position: absolute;
+    top: 68.2063px;
+    left: 456.8px;
+    width: 53.6px;
+    height: 53.6px;
+    z-index: 100;
+    background-color: rgb(255, 255, 255);
+    border-radius: 2px;
+    right: -456.8px;
+    margin: auto;
+}
+
+#rounded-rectangle-10-copy-2-2 {
+    position: absolute;
+    top: 68.2063px;
+    left: 525px;
+    width: 53.6px;
+    height: 53.6px;
+    z-index: 110;
+    background-color: rgb(255, 255, 255);
+    border-radius: 2px;
+    right: -525px;
+    margin: auto;
+}
+
+#vector-smart-object {
+    position: absolute;
+    top: 15.6032px;
+    left: -0.6px;
+    width: 10.7px;
+    height: 23.4px;
+    z-index: 120;
+    right: 0.6px;
+    margin: auto;
+}
+
+#vector-smart-object-2 {
+    position: absolute;
+    top: 18.5032px;
+    left: -0.5px;
+    width: 24.4px;
+    height: 17.5px;
+    z-index: 130;
+    right: 0.5px;
+    margin: auto;
+}
+
+#vector-smart-object-3 {
+    position: absolute;
+    top: 17.5032px;
+    left: -0.4px;
+    width: 24.4px;
+    height: 19.5px;
+    z-index: 140;
+    right: 0.4px;
+    margin: auto;
+}
+
+#forma-1 {
+    position: absolute;
+    top: 14.6032px;
+    left: 0px;
+    width: 24.4px;
+    height: 25.3px;
+    z-index: 150;
+    right: 0px;
+    margin: auto;
+}
+
+#rectangle-17-copy-3 {
+    position: absolute;
+    top: 66.2063px;
+    left: -541.8px;
+    width: 10.7px;
+    height: 15.6px;
+    z-index: 160;
+    right: 541.8px;
+    margin: auto;
+}
+
+#contact-us- {
+    position: absolute;
+    top: 70.1062px;
+    left: -208.9px;
+    width: 105.3px;
+    z-index: 170;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 300;
+    letter-spacing: 0.025em;
+    font-size: 11.7px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 208.9px;
+    margin: auto;
+}
+
+#desbravador {
+    position: absolute;
+    top: 43.8063px;
+    left: -224.9px;
+    width: 131.6px;
+    z-index: 180;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: 224.9px;
+    margin: auto;
+}
+
+#doubts {
+    position: absolute;
+    top: 108.106px;
+    left: -249.8px;
+    width: 81.9px;
+    z-index: 190;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1;
+    color: rgb(235, 227, 73);
+    text-align: center;
+    direction: ltr;
+    right: 249.8px;
+    margin: auto;
+}
+
+#rectangle-17-copy-7 {
+    position: absolute;
+    top: 66.2063px;
+    left: -284.5px;
+    width: 10.7px;
+    height: 16.6px;
+    z-index: 200;
+    right: 284.5px;
+    margin: auto;
+}
+
+#rectangle-17-copy-4 {
+    position: absolute;
+    top: 105.206px;
+    left: -541.8px;
+    width: 10.7px;
+    height: 15.6px;
+    z-index: 210;
+    right: 541.8px;
+    margin: auto;
+}
+
+#rectangle-17-copy-5 {
+    position: absolute;
+    top: 145.206px;
+    left: -541.8px;
+    width: 10.7px;
+    height: 15.6px;
+    z-index: 220;
+    right: 541.8px;
+    margin: auto;
+}
+
+#rectangle-17-copy-6 {
+    position: absolute;
+    top: 182.206px;
+    left: -541.8px;
+    width: 10.7px;
+    height: 15.6px;
+    z-index: 230;
+    right: 541.8px;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-3 {
+    position: absolute;
+    top: 0.1125px;
+    left: -86.7px;
+    width: 158.9px;
+    height: 54.6px;
+    z-index: 250;
+    background-color: rgb(228, 30, 124);
+    transform: rotate(0.1deg);
+    border-radius: 2px;
+    right: 86.7px;
+    margin: auto;
+}
+
+#forma-1-copy {
+    position: absolute;
+    top: 11.7125px;
+    left: -133px;
+    width: 26.3px;
+    height: 30.2px;
+    z-index: 260;
+    right: 133px;
+    margin: auto;
+}
+
+#app-store {
+    position: absolute;
+    top: 21.5125px;
+    left: -69.7px;
+    width: 77px;
+    z-index: 270;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 69.7px;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-3-2 {
+    position: absolute;
+    top: 0.1125px;
+    left: 86.8px;
+    width: 158.9px;
+    height: 54.6px;
+    z-index: 280;
+    background-color: rgb(228, 30, 124);
+    transform: rotate(0.1deg);
+    border-radius: 2px;
+    right: -86.8px;
+    margin: auto;
+}
+
+#shape-1-copy {
+    position: absolute;
+    top: 12.7125px;
+    left: 35.1px;
+    width: 27.3px;
+    height: 30.2px;
+    z-index: 290;
+    right: -35.1px;
+    margin: auto;
+}
+
+#google-play {
+    position: absolute;
+    top: 20.5125px;
+    left: 105.8px;
+    width: 92.6px;
+    z-index: 300;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -105.8px;
+    margin: auto;
+}
+
+#_3003-1246 {
+    position: absolute;
+    top: 136.406px;
+    left: -208.9px;
+    width: 163.7px;
+    z-index: 330;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 31.2px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 208.9px;
+    margin: auto;
+}
+
+#ellipse-4 {
+    position: absolute;
+    top: 0.00625px;
+    left: -250.4px;
+    width: 74.1px;
+    height: 75px;
+    z-index: 350;
+    background-color: rgb(37, 52, 111);
+    border-radius: 50%;
+    right: 250.4px;
+    margin: auto;
+}
+
+#_1 {
+    position: absolute;
+    top: 20.9062px;
+    left: -1.2px;
+    width: 14.3px;
+    z-index: 360;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 47.4px;
+    line-height: 1;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 1.2px;
+    margin: auto;
+}
+
+#do-you-have-an-iphone-or {
+    position: absolute;
+    top: 17.0063px;
+    left: -6.8px;
+    width: 381.1px;
+    z-index: 370;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 19px;
+    line-height: 0.9;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+    right: 6.8px;
+    margin: auto;
+}
+
+#android-3 {
+    position: absolute;
+    top: 0.0125px;
+    left: 91.8px;
+    width: 171px;
+    height: 57px;
+    z-index: 380;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(37, 51, 111);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    right: -91.8px;
+    margin: auto;
+}
+
+#android {
+    position: absolute;
+    top: 21.9125px;
+    left: -0.6px;
+    width: 79.9px;
+    z-index: 390;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 0.6;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+    right: 0.6px;
+    margin: auto;
+}
+
+#iphone-2 {
+    position: absolute;
+    top: 0.0125px;
+    left: -91.8px;
+    width: 171px;
+    height: 57px;
+    z-index: 410;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(37, 51, 111);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    right: 91.8px;
+    margin: auto;
+}
+
+#iphone {
+    position: absolute;
+    top: 21.9125px;
+    left: 0.8px;
+    width: 66.3px;
+    z-index: 420;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 0.8;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+    right: -0.8px;
+    margin: auto;
+}
+
+#selecionado {
+    position: absolute;
+    top: -0.98775px;
+    left: -1px;
+    width: 171px;
+    height: 57px;
+    z-index: 450;
+    background-color: rgb(37, 52, 111);
+    border-radius: 3px;
+    right: 1px;
+    margin: auto;
+}
+
+#android-2 {
+    position: absolute;
+    top: 22.9125px;
+    left: 0.4px;
+    width: 79.9px;
+    z-index: 460;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 0.6;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -0.4px;
+    margin: auto;
+}
+
+#ellipse-4-copy {
+    position: absolute;
+    top: 0.003125px;
+    left: -299.9px;
+    width: 74.1px;
+    height: 75px;
+    z-index: 490;
+    background-color: rgb(104, 71, 150);
+    border-radius: 50%;
+    right: 299.9px;
+    margin: auto;
+}
+
+#coloque-o-seu-veekchip-no {
+    position: absolute;
+    top: 28.3031px;
+    left: -37.3px;
+    width: 417.1px;
+    z-index: 500;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 19px;
+    line-height: 0.8;
+    color: rgb(103, 71, 149);
+    text-align: center;
+    direction: ltr;
+    right: 37.3px;
+    margin: auto;
+}
+
+#lembrando-que-o-veekchip-que {
+    position: absolute;
+    top: 96.9031px;
+    left: 1.2px;
+    width: 671.5px;
+    z-index: 510;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+    right: -1.2px;
+    margin: auto;
+}
+
+#vector-smart-object1-copy-3 {
+    position: absolute;
+    top: 364.503px;
+    left: 56.8px;
+    width: 236.8px;
+    height: 161.8px;
+    z-index: 520;
+    right: -56.8px;
+    margin: auto;
+}
+
+#_2 {
+    position: absolute;
+    top: 18.5031px;
+    left: 2.3px;
+    width: 29.2px;
+    z-index: 530;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 47.4px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    direction: ltr;
+    right: -2.3px;
+    margin: auto;
+}
+
+#coloquei-3 {
+    position: absolute;
+    top: 224.303px;
+    left: 59.6px;
+    width: 354.8px;
+    height: 57px;
+    z-index: 540;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(103, 71, 149);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    right: -59.6px;
+    margin: auto;
+}
+
+#coloquei {
+    position: absolute;
+    top: 21.3062px;
+    left: -0.9px;
+    width: 92.6px;
+    z-index: 550;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 0.8;
+    color: rgb(103, 71, 149);
+    text-align: center;
+    direction: ltr;
+    right: 0.9px;
+    margin: auto;
+}
+
+#selecionado-copy {
+    position: absolute;
+    top: -0.993875px;
+    left: -1px;
+    width: 354.8px;
+    height: 57px;
+    z-index: 570;
+    background-color: rgb(104, 71, 150);
+    border-radius: 3px;
+    right: 1px;
+    margin: auto;
+}
+
+#coloquei-2 {
+    position: absolute;
+    top: 22.3062px;
+    left: 0.1px;
+    width: 92.6px;
+    z-index: 580;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -0.1px;
+    margin: auto;
+}
+
+#android-4 {
+    position: absolute;
+    top: 0.00625px;
+    left: 91.8px;
+    width: 171px;
+    height: 57px;
+    z-index: 730;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(227, 29, 123);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    right: -91.8px;
+    margin: auto;
+}
+
+#no {
+    position: absolute;
+    top: 17.2062px;
+    left: -0.1px;
+    width: 38px;
+    z-index: 740;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 1.1;
+    color: rgb(227, 30, 123);
+    text-align: center;
+    direction: ltr;
+    right: 0.1px;
+    margin: auto;
+}
+
+#iphone-3 {
+    position: absolute;
+    top: 0.00625px;
+    left: -91.8px;
+    width: 171px;
+    height: 57px;
+    z-index: 760;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(227, 29, 123);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    right: 91.8px;
+    margin: auto;
+}
+
+#sim {
+    position: absolute;
+    top: 21.1063px;
+    left: -1.6px;
+    width: 30.2px;
+    z-index: 770;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 0.8;
+    color: rgb(227, 30, 123);
+    text-align: right;
+    direction: ltr;
+    right: 1.6px;
+    margin: auto;
+}
+
+#selecionado-copy-3 {
+    position: absolute;
+    top: -0.99375px;
+    left: -1px;
+    width: 171px;
+    height: 57px;
+    z-index: 800;
+    background-color: rgb(228, 30, 124);
+    border-radius: 3px;
+    right: 1px;
+    margin: auto;
+}
+
+#sim-2 {
+    position: absolute;
+    top: 22.1063px;
+    left: -0.6px;
+    width: 30.2px;
+    z-index: 810;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: right;
+    direction: ltr;
+    right: 0.6px;
+    margin: auto;
+}
+
+#vector-smart-object1 {
+    position: absolute;
+    top: 85.4062px;
+    left: -0.3px;
+    width: 193px;
+    height: 91.6px;
+    z-index: 830;
+    right: 0.3px;
+    margin: auto;
+}
+
+#just-see-if-it-appeared {
+    position: absolute;
+    top: 909.8px;
+    left: -122.197px;
+    width: 526.3px;
+    z-index: 850;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+    right: 122.197px;
+    margin: auto;
+}
+
+#seu-celular-identificou-o-veekchip {
+    position: absolute;
+    top: 16.6063px;
+    left: 45.6px;
+    width: 357.7px;
+    z-index: 860;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 19px;
+    line-height: 0.8;
+    color: rgb(227, 30, 123);
+    text-align: center;
+    direction: ltr;
+    right: -45.6px;
+    margin: auto;
+}
+
+#ellipse-4-copy-7 {
+    position: absolute;
+    top: 0.00625px;
+    left: -187.3px;
+    width: 74.1px;
+    height: 75px;
+    z-index: 870;
+    background-color: rgb(228, 30, 124);
+    border-radius: 50%;
+    right: 187.3px;
+    margin: auto;
+}
+
+#_3 {
+    position: absolute;
+    top: 18.5062px;
+    left: 1.4px;
+    width: 29.2px;
+    z-index: 880;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 47.4px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: right;
+    direction: ltr;
+    right: -1.4px;
+    margin: auto;
+}
+
+#siga-o-passo-a-passso {
+    position: absolute;
+    top: 100.809px;
+    left: -510.6px;
+    width: 309.9px;
+    z-index: 910;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 0.8;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+    right: 510.6px;
+    margin: auto;
+}
+
+#abra-as-configuraes-e-clique {
+    position: absolute;
+    top: 448.812px;
+    left: 0px;
+    width: 250.5px;
+    z-index: 930;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: -0.015em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+    right: 0px;
+    margin: auto;
+}
+
+#_1-2 {
+    position: absolute;
+    top: 0.0125px;
+    left: -5.4px;
+    width: 239.8px;
+    height: 427.9px;
+    z-index: 940;
+    right: 5.4px;
+    margin: auto;
+}
+
+#if-you-clicked-more {
+    position: absolute;
+    top: 449.812px;
+    left: 0px;
+    width: 241.7px;
+    z-index: 960;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+    right: 0px;
+    margin: auto;
+}
+
+#_2-2 {
+    position: absolute;
+    top: 0.0125px;
+    left: -0.9px;
+    width: 239.8px;
+    height: 427.9px;
+    z-index: 970;
+    right: 0.9px;
+    margin: auto;
+}
+
+#agora-clique-em-nomes-dos {
+    position: absolute;
+    top: 448.812px;
+    left: -9.3px;
+    width: 222.2px;
+    z-index: 990;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+    right: 9.3px;
+    margin: auto;
+}
+
+#_3-2 {
+    position: absolute;
+    top: 0.0125px;
+    left: 0.5px;
+    width: 239.8px;
+    height: 427.9px;
+    z-index: 1000;
+    right: -0.5px;
+    margin: auto;
+}
+
+#then-click--to {
+    position: absolute;
+    top: 448.812px;
+    left: -21.1px;
+    width: 195.9px;
+    z-index: 1020;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+    right: 21.1px;
+    margin: auto;
+}
+
+#_4 {
+    position: absolute;
+    top: 0.0125px;
+    left: 0px;
+    width: 239.8px;
+    height: 427.9px;
+    z-index: 1030;
+    right: 0px;
+    margin: auto;
+}
+
+#click-name-to-edit-the {
+    position: absolute;
+    top: 448.812px;
+    left: -1px;
+    width: 238.8px;
+    z-index: 1050;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+    right: 1px;
+    margin: auto;
+}
+
+#_5 {
+    position: absolute;
+    top: 0.0125px;
+    left: 0.5px;
+    width: 239.8px;
+    height: 427.9px;
+    z-index: 1060;
+    right: -0.5px;
+    margin: auto;
+}
+
+#text22 {
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+}
+
+#text23 {
+    font-family: Montserrat;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+}
+
+#text24 {
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+}
+
+#change-the-name-to- {
+    position: absolute;
+    top: 446.912px;
+    left: 0.4px;
+    width: 245.6px;
+    z-index: 1080;
+    text-align: left;
+    direction: ltr;
+    right: -0.4px;
+    margin: auto;
+}
+
+#_6 {
+    position: absolute;
+    top: 0.0125px;
+    left: -79.9px;
+    width: 86.7px;
+    height: 427.9px;
+    z-index: 1090;
+    right: 79.9px;
+    margin: auto;
+}
+
+#rectangle-23 {
+    position: absolute;
+    top: 154.012px;
+    left: 249.4px;
+    width: 33.1px;
+    height: 119.9px;
+    z-index: 1210;
+    right: -249.4px;
+    margin: auto;
+}
+
+#rectangle-23-copy {
+    position: absolute;
+    top: 293.809px;
+    left: -829.3px;
+    width: 33.1px;
+    height: 119.9px;
+    z-index: 1220;
+    right: 829.3px;
+    margin: auto;
+}
+
+#ellipse-4-copy-2 {
+    position: absolute;
+    top: 0.009375px;
+    left: -139.1px;
+    width: 74.1px;
+    height: 75px;
+    z-index: 1230;
+    background-color: rgb(9, 188, 211);
+    border-radius: 50%;
+    right: 139.1px;
+    margin: auto;
+}
+
+#now-you-need-to-configure-the-apn {
+    position: absolute;
+    top: 26.8094px;
+    left: 45.1px;
+    width: 262.2px;
+    z-index: 1240;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 19px;
+    line-height: 0.9;
+    color: rgb(9, 187, 210);
+    text-align: center;
+    direction: ltr;
+    right: -45.1px;
+    margin: auto;
+}
+
+#_4-2 {
+    position: absolute;
+    top: 19.0094px;
+    left: 1.2px;
+    width: 28.7px;
+    z-index: 1250;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 47.4px;
+    line-height: 0.6;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -1.2px;
+    margin: auto;
+}
+
+#android-5 {
+    position: absolute;
+    top: 0px;
+    left: 91.8px;
+    width: 171px;
+    height: 57px;
+    z-index: 1390;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(9, 187, 211);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    right: -91.8px;
+    margin: auto;
+}
+
+#no-2 {
+    position: absolute;
+    top: 17.2px;
+    left: -0.1px;
+    width: 38px;
+    z-index: 1400;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 1.1;
+    color: rgb(9, 187, 210);
+    text-align: center;
+    direction: ltr;
+    right: 0.1px;
+    margin: auto;
+}
+
+#iphone-4 {
+    position: absolute;
+    top: 0px;
+    left: -91.8px;
+    width: 171px;
+    height: 57px;
+    z-index: 1420;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(227, 29, 123);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    right: 91.8px;
+    margin: auto;
+}
+
+#sim-3 {
+    position: absolute;
+    top: 21.1px;
+    left: -1.6px;
+    width: 30.2px;
+    z-index: 1430;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 0.8;
+    color: rgb(227, 30, 123);
+    text-align: right;
+    direction: ltr;
+    right: 1.6px;
+    margin: auto;
+}
+
+#selecionado-copy-3-2 {
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    width: 171px;
+    height: 57px;
+    z-index: 1460;
+    background-color: rgb(9, 188, 211);
+    border-radius: 3px;
+    right: 1px;
+    margin: auto;
+}
+
+#sim-4 {
+    position: absolute;
+    top: 22.1px;
+    left: -0.6px;
+    width: 30.2px;
+    z-index: 1470;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: right;
+    direction: ltr;
+    right: 0.6px;
+    margin: auto;
+}
+
+#vector-smart-object4 {
+    position: absolute;
+    top: 79.6px;
+    left: 9.4px;
+    width: 159.8px;
+    height: 167.6px;
+    z-index: 1490;
+    right: -9.4px;
+    margin: auto;
+}
+
+#ellipse-4-copy-3 {
+    position: absolute;
+    top: 0px;
+    left: -269.6px;
+    width: 74.1px;
+    height: 75px;
+    z-index: 1520;
+    background-color: rgb(47, 50, 78);
+    border-radius: 50%;
+    right: 269.6px;
+    margin: auto;
+}
+
+#now-just-follow-the {
+    position: absolute;
+    top: 27.8px;
+    left: 8.6px;
+    width: 450.3px;
+    z-index: 1530;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 19px;
+    line-height: 0.9;
+    color: rgb(47, 50, 77);
+    text-align: center;
+    direction: ltr;
+    right: -8.6px;
+    margin: auto;
+}
+
+#text25 {
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+}
+
+#text26 {
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+}
+
+#text27 {
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 15.2px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: left;
+    direction: ltr;
+}
+
+#if-you-can-not-enter {
+    position: absolute;
+    top: 95.5px;
+    left: 1.7px;
+    width: 609.9px;
+    z-index: 1540;
+    text-align: left;
+    direction: ltr;
+    right: -1.7px;
+    margin: auto;
+}
+
+#_5-2 {
+    position: absolute;
+    top: 19px;
+    left: 1.4px;
+    width: 29.2px;
+    z-index: 1550;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 47.4px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    direction: ltr;
+    right: -1.4px;
+    margin: auto;
+}
+
+#text28 {
+    font-family: Montserrat;
+    font-weight: 700;
+    letter-spacing: 0em;
+    font-size: 31.2px;
+    line-height: 1.2;
+    color: rgb(37, 51, 111);
+    text-align: center;
+    direction: ltr;
+}
+
+#text29 {
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 1.2;
+    color: rgb(125, 125, 125);
+    text-align: center;
+    direction: ltr;
+}
+
+#como {
+    position: absolute;
+    top: 385.5px;
+    left: 19px;
+    width: 485.1px;
+    z-index: 2690;
+    text-align: center;
+    direction: ltr;
+    right: -19px;
+    margin: auto;
+}
+
+#banner {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 364.5px;
+    z-index: 2710;
+    background-image: url("../images/rectangle-21_3.jpg");
+    background-size: cover;
+    background-position: center top;
+    right: 0%;
+    margin: auto;
+}
+
+#layer-1 {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 270.9px;
+    z-index: 2730;
+    opacity: 0.301961;
+    background-image: url("../images/layer-1_2.png");
+    background-size: cover;
+    background-position: center top;
+    right: 0%;
+    margin: auto;
+}
+
+#layer-2 {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 304.1px;
+    z-index: 2740;
+    opacity: 0.301961;
+    background-image: url("../images/layer-2_2.png");
+    background-size: cover;
+    background-position: center top;
+    right: 0%;
+    margin: auto;
+}
+
+#veeker {
+    position: absolute;
+    top: 0.0125px;
+    left: 0px;
+    width: 388.9px;
+    z-index: 2750;
+    white-space: nowrap;
+    font-family: Jaapokkienchance, jaapokkienchance;
+    font-weight: 400;
+    letter-spacing: 0em;
+    font-size: 98.5px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 0px;
+    margin: auto;
+}
+
+#use-indique-e-ganhe {
+    position: absolute;
+    top: 88.7125px;
+    left: -15.7px;
+    width: 351.8px;
+    z-index: 2760;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 300;
+    letter-spacing: 0em;
+    font-size: 29.2px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: 15.7px;
+    margin: auto;
+}
+
+#header {
+    position: absolute;
+    top: 30.2px;
+    left: -482.3px;
+    width: 129.6px;
+    height: 48.7px;
+    z-index: 2800;
+    right: 482.3px;
+    margin: auto;
+}
+
+#flutuante {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 65.3px;
+    z-index: 2810;
+    background-color: rgb(37, 52, 111);
+    right: 0%;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-13 {
+    position: absolute;
+    top: 8.3px;
+    left: 491.9px;
+    width: 141.3px;
+    height: 43.9px;
+    z-index: 2820;
+    background-color: rgb(227, 29, 123);
+    border-color: rgb(227, 29, 123);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 2px;
+    right: -491.9px;
+    margin: auto;
+}
+
+#vector-smart-object-copy-2 {
+    position: absolute;
+    top: 4.4125px;
+    left: -439.6px;
+    width: 75px;
+    height: 28.3px;
+    z-index: 2830;
+    right: 439.6px;
+    margin: auto;
+}
+
+#shape-1-copy-2 {
+    position: absolute;
+    top: 11.1031px;
+    left: -48.3px;
+    width: 20.5px;
+    height: 21.4px;
+    z-index: 2840;
+    right: 48.3px;
+    margin: auto;
+}
+
+#rounded-rectangle-6-copy-14 {
+    position: absolute;
+    top: 0.0125px;
+    left: 411.3px;
+    width: 131.6px;
+    height: 43.9px;
+    z-index: 2850;
+    background-color: rgb(228, 30, 124);
+    border-radius: 2px;
+    right: -411.3px;
+    margin: auto;
+}
+
+#forma-1-copy-2 {
+    position: absolute;
+    top: 10.2125px;
+    left: -43.8px;
+    width: 20.5px;
+    height: 23.4px;
+    z-index: 2860;
+    right: 43.8px;
+    margin: auto;
+}
+
+#app-store-2 {
+    position: absolute;
+    top: 16.1125px;
+    left: 13.6px;
+    width: 77px;
+    z-index: 2870;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.7;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -13.6px;
+    margin: auto;
+}
+
+#google-play-2 {
+    position: absolute;
+    top: 15.0031px;
+    left: 16.9px;
+    width: 92.6px;
+    z-index: 2880;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -16.9px;
+    margin: auto;
+}
+
+#download-the-app-and-play-2 {
+    position: absolute;
+    top: 16.1125px;
+    left: 173.5px;
+    width: 330.4px;
+    z-index: 2890;
+    white-space: nowrap;
+    font-family: Montserrat;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    font-size: 14.6px;
+    line-height: 0.8;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    right: -173.5px;
+    margin: auto;
+}
+
+#group-17 {
+    position: absolute;
+    top: 11.2px;
+    left: -3.6%;
+    width: 50.1%;
+    height: 43.9px;
+    z-index: 2830;
+    right: 3.6%;
+    margin: auto;
+}
+
+#txt {
+    position: absolute;
+    top: 164.7px;
+    left: -354.6px;
+    width: 388.9px;
+    height: 108.7px;
+    z-index: 2750;
+    right: 354.6px;
+    margin: auto;
+}
+
+#opes {
+    position: absolute;
+    top: 108.106px;
+    left: 109.1px;
+    width: 356.7px;
+    height: 59px;
+    z-index: 380;
+    right: -109.1px;
+    margin: auto;
+}
+
+#_1-3 {
+    position: absolute;
+    top: -2562.78px;
+    left: -100.3px;
+    width: 574.875px;
+    height: 167.1px;
+    z-index: 350;
+    right: 100.3px;
+    margin: auto;
+}
+
+#_2-3 {
+    position: absolute;
+    top: -2361.57px;
+    left: -50.8px;
+    width: 673.9px;
+    height: 526.3px;
+    z-index: 490;
+    right: 50.8px;
+    margin: auto;
+}
+
+#title {
+    position: absolute;
+    top: 821.6px;
+    left: -163.397px;
+    width: 448.781px;
+    height: 75px;
+    z-index: 860;
+    right: 163.397px;
+    margin: auto;
+}
+
+#opes-copy {
+    position: absolute;
+    top: 0.00625px;
+    left: 0px;
+    width: 356.7px;
+    height: 59px;
+    z-index: 730;
+    right: 0px;
+    margin: auto;
+}
+
+#sim-5 {
+    position: absolute;
+    top: 989.6px;
+    left: 8.80312px;
+    width: 356.7px;
+    height: 176.984px;
+    z-index: 730;
+    right: -8.80312px;
+    margin: auto;
+}
+
+#opes-copy-2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 356.7px;
+    height: 59px;
+    z-index: 1390;
+    right: 0px;
+    margin: auto;
+}
+
+#sim-copy {
+    position: absolute;
+    top: 660.609px;
+    left: -272.4px;
+    width: 356.7px;
+    height: 247.2px;
+    z-index: 1390;
+    right: 272.4px;
+    margin: auto;
+}
+
+#title-2 {
+    position: absolute;
+    top: 0.009375px;
+    left: -492.8px;
+    width: 352.281px;
+    height: 75px;
+    z-index: 1230;
+    right: 492.8px;
+    margin: auto;
+}
+
+#_1-4 {
+    position: absolute;
+    top: 0.0125px;
+    left: -687.6px;
+    width: 250.5px;
+    height: 482.8px;
+    z-index: 930;
+    right: 687.6px;
+    margin: auto;
+}
+
+#_2-4 {
+    position: absolute;
+    top: 0.0125px;
+    left: -433.8px;
+    width: 241.7px;
+    height: 483.8px;
+    z-index: 960;
+    right: 433.8px;
+    margin: auto;
+}
+
+#_3-4 {
+    position: absolute;
+    top: 0.0125px;
+    left: -176.9px;
+    width: 240.8px;
+    height: 482.8px;
+    z-index: 990;
+    right: 176.9px;
+    margin: auto;
+}
+
+#_4-3 {
+    position: absolute;
+    top: 0.0125px;
+    left: 82.9px;
+    width: 239.8px;
+    height: 482.8px;
+    z-index: 1020;
+    right: -82.9px;
+    margin: auto;
+}
+
+#_5-3 {
+    position: absolute;
+    top: 0.0125px;
+    left: 435.2px;
+    width: 240.8px;
+    height: 482.8px;
+    z-index: 1050;
+    right: -435.2px;
+    margin: auto;
+}
+
+#_6-2 {
+    position: absolute;
+    top: 0.0125px;
+    left: unset;
+    width: 246.5px;
+    height: 482.9px;
+    z-index: 1080;
+    right: -0.015375px;
+    margin: unset;
+}
+
+#carrossel {
+    position: absolute;
+    top: 139.809px;
+    left: 2%;
+    width: 96.1%;
+    height: 483.8px;
+    z-index: 930;
+    right: -2%;
+    margin: auto;
+}
+
+#_4-4 {
+    position: absolute;
+    top: -1384.47px;
+    left: 14.8%;
+    width: 88.8%;
+    height: 907.781px;
+    z-index: 910;
+    right: -14.8%;
+    margin: auto;
+}
+
+#_5-4 {
+    position: absolute;
+    top: -448.875px;
+    left: -81.1px;
+    width: 613.281px;
+    height: 149.5px;
+    z-index: 1520;
+    right: 81.1px;
+    margin: auto;
+}
+
+#lojas-copy {
+    position: absolute;
+    top: 69.1062px;
+    left: 64px;
+    width: 332.4px;
+    height: 54.9px;
+    z-index: 250;
+    right: -64px;
+    margin: auto;
+}
+
+#group-8 {
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    width: 100%;
+    height: 304.1px;
+    z-index: 2740;
+    right: 0%;
+    margin: auto;
+}
+
+section {
+    width: 100%;
+    left: 0px;
+    position: relative;
+    overflow: visible;
+}
+
+#como-section {
+    z-index: 2690;
+    height: 440.5px;
+}
+
+#_3-3-section {
+    z-index: 730;
+    height: 1166.55px;
+}
+
+#footer-section {
+    z-index: 20;
+    height: 1433.83px;
+}
+
+#_1-3-section {
+    z-index: 350;
+    height: 79.125px;
+}
